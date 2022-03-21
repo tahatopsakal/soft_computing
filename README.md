@@ -1,7 +1,7 @@
 # soft_computing
 Soft Computing Algorithms
 
-Might want to check the below for the thory
+Might want to check the below for the theory
 
 Gradient_Descent = https://realpython.com/gradient-descent-algorithm-python/
 
